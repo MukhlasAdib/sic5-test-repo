@@ -1,1 +1,0 @@
-print("Halo kami dari tim Java!!")
