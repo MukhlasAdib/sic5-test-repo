@@ -1,0 +1,1 @@
+print("Halo kami dari tim NG")
